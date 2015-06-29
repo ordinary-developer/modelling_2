@@ -1,4 +1,4 @@
-modelling_lab_2
+modelling_2
 ===============
 
-The 2-nd laboratory work
+The first attempt to implement a queueing system with two devices.
